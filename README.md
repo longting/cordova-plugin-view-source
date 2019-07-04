@@ -2,8 +2,8 @@
 cordova插件开发例子  
 
 # 注意
-必须同时把[cordova-plugin-view](https://github.com/longting/cordova-plugin-view) 下载下来,并且放到同一级目录。
-比如：
+必须同时把[cordova-plugin-view](https://github.com/longting/cordova-plugin-view) 下载下来,并且放到同一级目录。  
+比如：  
 D:/cordova-plugin-view  
 D:/cordova-plugin-view-source  
 
