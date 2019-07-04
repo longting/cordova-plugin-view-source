@@ -14,3 +14,11 @@ D:/cordova-plugin-view-source
 # 目录说明
 MyViewAndroid 插件安卓工程源码  
 TestCordovaIOS 插件IOS工程源码  
+
+
+# 安卓插件
+1. 在gradle中添加cordova依赖
+
+
+# IOS插件
+1. 在使用pod管理依赖，在pod添加cordova
